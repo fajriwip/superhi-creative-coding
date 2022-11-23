@@ -1,7 +1,8 @@
 import './style.css';
 import { two } from './two';
-import RectangleGroup from './shapes/RectangleGroup';
+// import RectangleGroup from './shapes/RectangleGroup';
+import LoopingSquare from './shapes/LoopingSquare';
 
-RectangleGroup();
+LoopingSquare();
 
 two.play();
